@@ -1,0 +1,21 @@
+la suma de la primera fila es 1314589302
+la suma de la segunda fila es 190154887
+la suma de la tercera fila es 1310847474
+la suma de la cuerta fila es -990700032
+la suma de la quinta fila es 1984829403
+la suma de la sexta fila es 745147867
+la suma de la septima fila es -264551047
+la suma de la octava fila es 75282307
+la suma de la novena fila es 1689685435
+la suma de la decima fila es -587809617
+la suma de la primera columna es 262176304
+la suma de la segunda columna es -1651935669
+la suma de la tercera columna es -333935083
+la suma de la cuerta columna es 1286667183
+la suma de la quinta columna es 2010647664
+la suma de la sexta columna es 682654527
+la suma de la septima columna es 2054957677
+la suma de la octava columna es 337091075
+la suma de la novena columna es -1589664231
+la suma de la decima columna es -1886150764
+BUILD SUCCESSFUL (total time: 0 seconds)
